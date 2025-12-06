@@ -1,6 +1,6 @@
 # 🚀 3D Developer Portfolio
 
-A modern, animated 3D developer portfolio built with React.js, TailwindCSS, and motion effects,
+A modern, animated 3D developer portfolio built with React.js, TailwindCSS, and motion effects, Btw my name Salaheddine but call me King
 
 ## 🛠 Tech Stack
 
