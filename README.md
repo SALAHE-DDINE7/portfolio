@@ -2,10 +2,6 @@
 
 A modern, animated 3D developer portfolio built with React.js, TailwindCSS, and motion effects,
 
-![3d Portfolio Screenshot GitHub]
-
-
-
 ## 🛠 Tech Stack
 
 | Tech              | Description                           |
